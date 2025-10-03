@@ -20,6 +20,18 @@
                 </li>
 
                 <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle link-light" href="#" role="button" data-bs-toggle="dropdown"
+                       aria-expanded="false">
+                        Gestión Matricula
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="periodoMan.jsp">Periodo Academico</a></li>
+                        <li><a class="dropdown-item" href="matriculaMan.jsp">Matricula</a></li>
+                        <li><a class="dropdown-item" href="detalleMan.jsp">Detalle Matricula</a></li>
+                    </ul>
+                </li>
+
+                <li class="nav-item dropdown">
                     <a class="nav-link link-light dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
                        aria-expanded="false">
                         Gestión Cursos
